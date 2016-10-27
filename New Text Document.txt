@@ -1,0 +1,45 @@
+nanodegree like
+
+https://github.com/mikesprague/udacity-nanodegrees#full-stack-web-developer-nanodegree
+
+
+Full stack web Developer nanodegree:
+
+Programming Foundations with Python
+Intro to HTML and CSS
+Responsive Web Design Fundamentals
+Responsive Images
+Intro to Backend
+Intro to Relational Databases
+Full Stack Foundations
+Authentication & Authorization: OAuth
+Intro to AJAX
+JavaScript Design Patterns
+Developing Scalable Apps in Python
+Linux Command Line Basics
+Configuring Linux Web Servers
+
+
+Front-End Web Developer Nanodegree
+
+Intro to HTML and CSS
+Responsive Web Design Fundamentals
+Responsive Images
+JavaScript Basics
+Intro to jQuery
+Object-Oriented JavaScript
+HTML5 Canvas
+Website Performance Optimization
+Browser Rendering Optimization
+Intro to AJAX
+JavaScript Design Patterns
+JavaScript Testing
+
+----------------------------------------------------------
+https://www.youtube.com/user/compututsvideos/playlists
+
+python
+
+
+
+
