@@ -1,4 +1,4 @@
-nanodegree like
+nanodegree links
 
 https://github.com/mikesprague/udacity-nanodegrees#full-stack-web-developer-nanodegree
 
